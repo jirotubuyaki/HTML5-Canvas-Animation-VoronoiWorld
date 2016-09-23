@@ -5,4 +5,4 @@
  If you watch the design and art, please excuse "index.html" on your browser.  
    
    
-   ![ScreenShot](https://github.com/jirotubuyaki/CreateJS_clock/blob/master/screenshot.png)  
+   ![ScreenShot](https://github.com/jirotubuyaki/CreateJS_world/blob/master/screenshot.png)  
