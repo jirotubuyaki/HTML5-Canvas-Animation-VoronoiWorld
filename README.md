@@ -9,5 +9,5 @@ https://code.createjs.com/createjs-2013.12.12.min.js EaselJS 0.7.1, TweenJS 0.5.
 ### D3.js Version
 Please check D3.js version :d3.v3  
 http://d3js.org/d3.v3.min.js  
-### ScrennShot  
+### ScreenShot  
 ![ScreenShot](https://github.com/jirotubuyaki/CreateJS_world/blob/master/screenshot.png)  
