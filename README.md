@@ -11,7 +11,7 @@ Please check D3.js version :d3.v3
 http://d3js.org/d3.v3.min.js  
 
 ### Please Look
-[Motion Half-World](http://okaal.html.xdomain.jp/logs/screensaver/half_world_clock1/index.html)
+[Motion Half-World DEMO](http://okaal.html.xdomain.jp/logs/screensaver/half_world_clock1/index.html)
 
 ### ScreenShot  
 ![ScreenShot](https://github.com/jirotubuyaki/CreateJS_world/blob/master/screenshot.png)  
