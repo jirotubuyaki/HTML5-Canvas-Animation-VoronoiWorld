@@ -10,6 +10,8 @@ https://code.createjs.com/createjs-2013.12.12.min.js EaselJS 0.7.1, TweenJS 0.5.
 Please check D3.js version :d3.v3  
 http://d3js.org/d3.v3.min.js  
 
+### Please Look
 [Motion Half-World](http://okaal.html.xdomain.jp/logs/screensaver/half_world_clock1/index.html)
+
 ### ScreenShot  
 ![ScreenShot](https://github.com/jirotubuyaki/CreateJS_world/blob/master/screenshot.png)  
