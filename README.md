@@ -14,4 +14,7 @@ http://d3js.org/d3.v3.min.js
 [Motion Half-World DEMO](http://okaal.html.xdomain.jp/logs/screensaver/half_world_clock1/index.html)
 
 ### ScreenShot  
-![ScreenShot](https://github.com/jirotubuyaki/CreateJS_world/blob/master/screenshot.png)  
+![ScreenShot](https://github.com/jirotubuyaki/CreateJS_world/blob/master/screenshot.png)
+
+### Acknowledgments
+This activity would not have been possible without the support of my family and friends. To my family, thank you for lots of encouragement for me and inspiring me to follow my dreams. I am especially grateful to my parents, who supported me all aspects.
