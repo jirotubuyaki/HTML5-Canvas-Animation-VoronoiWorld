@@ -1,4 +1,4 @@
-## Design Parts Motion Half-World by CreateJS
+## Motion Half-World Design Parts on Web Pages by CreateJS
 ### Introduction
 This program is created by CrateJS (JavaScript) + HTML5. You can use it for your web pages and modify the design. If you watch the design and art, please excuse "index.html" on your browser.  
    
