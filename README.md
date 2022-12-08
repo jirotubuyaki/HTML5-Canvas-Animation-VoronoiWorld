@@ -1,4 +1,4 @@
-## Generative Art Motion Half World by HTML5 Canvas CreateJS(JavaScript)
+## Generative Art Motion Voronoi Half World by HTML5 Canvas CreateJS(JavaScript)
 ### Introduction
 This program is created by CreateJS (JavaScript) + HTML5 Canvas. You can use it for your web pages and modify the design. If you watch the design and art, please excuse "index.html" on your browser.  
    
